@@ -1,6 +1,10 @@
 # Meme Generator
 
-## This is a simple Meme Generator project built with HTML, CSS, and JavaScript. It provides functionality to display random memes, jokes, quotes, and riddles. Users can also reveal the answer to a riddle if one is displayed.
+## This is a simple Meme Generator project built with HTML, CSS, and JavaScript
+
+## It provides functionality to display random memes, jokes, quotes, and riddles
+
+## Users can also reveal the answer to a riddle if one is displayed
 
 ### Features
 
@@ -35,7 +39,3 @@
 - Jokes sourced from Dev Topics.
 - Quotes sourced from Goodreads.
 - Riddles sourced from Reader's Digest.
-
-### License
-
-- This project is open-source and available for use under the MIT License. Feel free to modify or extend its functionality!
